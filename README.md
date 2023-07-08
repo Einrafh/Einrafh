@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Python](https://github.com/Einrafh)
-- <b>Full Stack Web App</b>
-  - [Laravel](https://github.com/Einrafh)
+  - [Python Pro Bootcamp Udemy](https://github.com/Einrafh/Python-Pro-Bootcamp-Udemy)
 - <b>Data Science</b>
-  - [Data Science](https://github.com/Einrafh)
+  - [Data Science](https://github.com/Einrafh) <b><i>(coming soon)</i></b>
+- <b>Full Stack Web App</b>
+  - [Laravel](https://github.com/Einrafh) <b><i>(coming soon)</i></b>
 
 <h2> 🤳 Connect with me:</h2>
 
