@@ -1,4 +1,4 @@
-<h1>Hi, I'm Einrafh! <br/><a href="https://github.com/Einrafh">Programmer</a>, <a href="https://www.linkedin.com/in/einrafh">Data Science Enthusiast</a></h1>
+<h1>Hi, I'm Muhammad Rafly Ash Shiddiqi! <br/><a href="https://github.com/Einrafh">Programmer</a>, <a href="https://www.linkedin.com/in/einrafh">Data Science Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
