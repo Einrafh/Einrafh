@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Python Pro Bootcamp Udemy](https://github.com/Einrafh/Python-Pro-Bootcamp-Udemy)
+  - [100 Days Python Pro Bootcamp](https://github.com/Einrafh/100-Days-Python-Pro-Bootcamp)
 - <b>Data Science</b>
   - [Data Science](https://github.com/Einrafh) <b><i>(coming soon)</i></b>
 - <b>Full Stack Web App</b>
