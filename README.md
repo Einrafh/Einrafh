@@ -6,8 +6,8 @@
   - [100 Days Python Pro Bootcamp](https://github.com/Einrafh/100-Days-Python-Pro-Bootcamp)
 - <b>Data Science</b>
   - [Data Science](https://github.com/Einrafh) <b><i>(coming soon)</i></b>
-- <b>Full Stack Web App</b>
-  - [Laravel](https://github.com/Einrafh) <b><i>(coming soon)</i></b>
+- <b>Machine Learning</b>
+  - [Iris Flower Classification](https://github.com/Einrafh/Iris-Flower-Classification)
 
 <h2> 🤳 Connect with me:</h2>
 
