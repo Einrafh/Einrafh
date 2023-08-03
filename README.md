@@ -7,6 +7,7 @@
 - <b>Data Science & Machine Learning</b>
   - [Iris Flower Classification](https://github.com/Einrafh/Iris-Flower-Classification)
   - [Social Network Ads](https://github.com/Einrafh/Social-Network-Ads)
+  - [Mall Customers](https://github.com/Einrafh/Mall-Customers)
 
 <h2> 🤳 Connect with me:</h2>
 
