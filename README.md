@@ -4,10 +4,9 @@
 
 - <b>Python</b>
   - [100 Days Python Pro Bootcamp](https://github.com/Einrafh/100-Days-Python-Pro-Bootcamp)
-- <b>Data Science</b>
-  - [Data Science](https://github.com/Einrafh) <b><i>(coming soon)</i></b>
-- <b>Machine Learning</b>
+- <b>Data Science & Machine Learning</b>
   - [Iris Flower Classification](https://github.com/Einrafh/Iris-Flower-Classification)
+  - [Social Network Ads](https://github.com/Einrafh/Social-Network-Ads)
 
 <h2> 🤳 Connect with me:</h2>
 
