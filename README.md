@@ -9,6 +9,7 @@
   - [Social Network Ads](https://github.com/Einrafh/Social-Network-Ads)
   - [Mall Customers](https://github.com/Einrafh/Mall-Customers)
   - [Pima Indians Diabetes](https://github.com/Einrafh/Pima-Indians-Diabetes)
+  - [Salary Data](https://github.com/Einrafh/Salary-Data)
 
 <h2> 🤳 Connect with me:</h2>
 
