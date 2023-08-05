@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [100 Days Python Pro Bootcamp](https://github.com/Einrafh/100-Days-Python-Pro-Bootcamp)
 - <b>Data Science & Machine Learning</b>
-  - [Iris Flower Classification](https://github.com/Einrafh/Iris-Flower-Classification)
+  - [Iris Flower Classification with Decision Tree](https://github.com/Einrafh/Iris-Flower-Classification-Decision-Tree)
   - [Social Network Ads](https://github.com/Einrafh/Social-Network-Ads)
   - [Mall Customers](https://github.com/Einrafh/Mall-Customers)
   - [Pima Indians Diabetes](https://github.com/Einrafh/Pima-Indians-Diabetes)
